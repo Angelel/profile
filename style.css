@@ -1,0 +1,46 @@
+body{
+  background-color: #EBEBEB;
+  font-family: 'Ubuntu', sans-serif;
+  color:#557669;
+  font-size: 20px;
+  line-height: 100%;
+}
+
+h1, h2, h3 {
+  color: #669B7C;
+  text-decoration: underline;
+  font-size:20px;
+}
+
+a {
+  color: #669B7C;
+  text-decoration: underline;
+  font-size:20px;
+}
+
+a:hover {
+  color:#F2D1A8;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  margin: 10%;
+}
+
+.card {
+  border: solid;
+}
+
+.picshadow {
+  box-shadow: 2px 2px 2px grey;
+}
+
+#profilepic {
+  border-radius: 50%;
+  width: 300px;
+  margin: auto;
+  display: block;
+}
